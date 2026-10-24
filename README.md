@@ -20,7 +20,6 @@ MyRestaurant is an iOS application developed to provide users with a convenient 
 
 
 
-<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-22 at 19 24 41" src="https://github.com/user-attachments/assets/99cc0432-f114-4b9d-a1c4-7904523a11a9" />
 
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-22 at 19 24 52" src="https://github.com/user-attachments/assets/39b21c77-eda3-44be-8b89-89c14307a315" />
 
