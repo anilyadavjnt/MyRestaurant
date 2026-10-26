@@ -45,3 +45,4 @@ iOS Developer | Swift | UIKit | REST APIs
 ---
 
 *Built as an iOS development project to practice and demonstrate app development skills.*
+
